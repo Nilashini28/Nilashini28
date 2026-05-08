@@ -103,15 +103,7 @@
 
 ---
 
-# 🔥 LeetCode Journey
 
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Nilashini_s?theme=dark&font=Nunito&ext=heatmap"/>
-
-</div>
-
----
 
 # 😂 Random Dev Joke
 
