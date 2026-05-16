@@ -47,15 +47,6 @@ Currently exploring **LLM-based agentic systems**, **retrieval-augmented generat
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nilashini28&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=374151&bg_color=ffffff"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilashini28&layout=compact&theme=default&hide_border=true&title_color=6366f1&text_color=374151&bg_color=ffffff"/>
-
-</div>
-
 ---
 
 <div align="center">
