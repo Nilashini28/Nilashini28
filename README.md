@@ -1,131 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:00F7FF,50:8A2BE2,100:FF1493&text=Nilashini%20✨&fontAlign=50&fontAlignY=40&fontSize=60&fontColor=ffffff&animation=fadeIn" />
+# Nilashini
 
-# Hi, I'm Nilashini 👋
+**AI Engineer · Full Stack Developer · ML Enthusiast**
 
-### AI Engineer • Full Stack Developer • Machine Learning Enthusiast
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Applications;Exploring+LLMs+and+RAG+Systems;Creating+Modern+Web+Experiences;Passionate+about+AI+%26+Innovation" />
-
-</div>
-
----
-
-# 🌟 About Me
-
-I am passionate about building intelligent systems and scalable web applications that combine **AI, Machine Learning, and modern software engineering**.
-
-### 🚀 Current Focus
-- Large Language Model (LLM) Applications
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Systems
-- Full Stack Development
-- Deep Learning & Machine Learning
-
-### 💡 Interests
-- AI-driven products
-- Intelligent automation
-- Scalable backend systems
-- Modern UI/UX experiences
-
-### ☕ Fun Fact
-> I debug better with coffee.
-
----
-
-# 🛠️ Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,react,nodejs,html,css,mysql,git,github,vscode&perline=6" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Nilashini28)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:yourmail@example.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=Nilashini28&style=flat-square&color=6366f1&label=Profile+Views)](https://github.com/Nilashini28)
 
 </div>
 
 ---
 
-# 🧠 AI & ML Skills
+## About
 
-<div align="center">
+Computer Science Engineer with a focus on building intelligent, scalable systems. I work at the intersection of **AI/ML research** and **full-stack engineering** — from training models and designing RAG pipelines to shipping production web applications.
 
-<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Deep%20Learning-8E44AD?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLMs-1ABC9C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-3498DB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Agentic%20AI-E74C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/NLP-2ECC71?style=for-the-badge"/>
-
-</div>
+Currently exploring **LLM-based agentic systems**, **retrieval-augmented generation**, and **deep learning** applications.
 
 ---
 
-# 📊 GitHub Analytics
+## Technical Skills
 
-<div align="center">
+**Languages**
+`Python` `C++` `Java` `JavaScript`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nilashini28&show_icons=true&theme=tokyonight&hide_border=true&border_radius=18"/>
+**AI / ML**
+`Large Language Models (LLMs)` `Retrieval-Augmented Generation (RAG)` `Agentic AI` `Deep Learning` `Machine Learning` `NLP`
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilashini28&layout=compact&theme=tokyonight&hide_border=true&border_radius=18"/>
+**Web & Backend**
+`React` `Node.js` `HTML/CSS` `REST APIs`
 
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nilashini28&theme=tokyonight&hide_border=true&border_radius=18"/>
-
-</div>
+**Tools & Infrastructure**
+`MySQL` `Git` `GitHub` `VS Code`
 
 ---
 
-# 🏆 GitHub Achievements
+## Areas of Focus
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nilashini28&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</div>
-
----
-
-# 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Nilashini28/Nilashini28/output/github-contribution-grid-snake.svg"/>
-
-</div>
+- **LLM Applications** — Designing and deploying production-grade language model systems
+- **RAG Systems** — Building context-aware retrieval pipelines for accurate, grounded AI responses
+- **Agentic AI** — Developing autonomous agents capable of multi-step reasoning and tool use
+- **Full Stack Development** — End-to-end web applications with modern frameworks
+- **Deep Learning** — Applied neural network research and model development
 
 ---
 
-# 🌐 Connect With Me
+## GitHub Stats
 
 <div align="center">
 
-<a href="https://github.com/Nilashini28">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yourmail@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 👀 Profile Views
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Nilashini28&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nilashini28&show_icons=true&theme=default&hide_border=true&title_color=6366f1&icon_color=6366f1&text_color=374151&bg_color=ffffff"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilashini28&layout=compact&theme=default&hide_border=true&title_color=6366f1&text_color=374151&bg_color=ffffff"/>
 
 </div>
 
@@ -133,8 +60,6 @@ I am passionate about building intelligent systems and scalable web applications
 
 <div align="center">
 
-## ✨ Code • Learn • Build • Innovate ✨
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00F7FF,50:8A2BE2,100:FF1493"/>
+*"First, solve the problem. Then, write the code."*
 
 </div>
